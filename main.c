@@ -4,6 +4,7 @@
 
 int main()
 {
+    // declaracao de variaveis
     float ldA, ldB, ldC;
 
     printf("Digite o lado 1\n");

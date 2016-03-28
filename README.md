@@ -1,4 +1,4 @@
-# Programa em C 
+# Programa desenvolvido em C 
 # Definição do tipo de triangulo
 ## Escaleno: possui todos os lados com medidas diferentes.
 ## Equilátero: possui os lados com medidas iguais.
